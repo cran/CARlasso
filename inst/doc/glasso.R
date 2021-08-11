@@ -14,9 +14,9 @@ dt <- dt[,1:5]
 head(dt)
 
 
-## ----ar1example_first---------------------------------------------------------
-glassores <- bGlasso(data = dt)
-plot(glassores)
+## ----ar1example_first, eval = FALSE-------------------------------------------
+#  glassores <- bGlasso(data = dt)
+#  plot(glassores)
 
 ## ----comp_data----------------------------------------------------------------
 dt <- mgp154[,c("Alistipes","Bacteroides",

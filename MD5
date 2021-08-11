@@ -1,4 +1,4 @@
-7c0019f6f149272af5a5809819e94911 *DESCRIPTION
+c03f1451d6cd3f49737cc29857f194da *DESCRIPTION
 5f4f55d51005c59ff23b925b0b441cf5 *NAMESPACE
 b1cd831f91f091bd77f1fa4c035c41a0 *R/CAR-LASSO.R
 673474905992ff4735b99ebdf2b020fc *R/RcppExports.R
@@ -14,9 +14,9 @@ c863186add71be359b4660f51de4c6a9 *build/vignette.rds
 3c9e2d06e8560272e30c98b0c827478b *inst/doc/buildown.R
 cc4aa4ea9e2f646c9cf6a4a742c3cdd5 *inst/doc/buildown.Rmd
 a4dfe2301a79aed9a49a3465031881b5 *inst/doc/buildown.html
-bdfded51fe6eb6ed48f519f293c507ff *inst/doc/glasso.R
-12d12a12830cd60dfdc6f279af77aee5 *inst/doc/glasso.Rmd
-dd031e20fc2015eb8005ea787cf55456 *inst/doc/glasso.html
+f3a84282fe17a946f11921f8927608ad *inst/doc/glasso.R
+ae4f89314cec5f39cb8312eb508670fb *inst/doc/glasso.Rmd
+ac6c663feae368b5964204aed4ee80aa *inst/doc/glasso.html
 d0cc66275cc6bfc517781b9e9a8fcce8 *inst/doc/network.R
 a5aa13a84211b89bfb4304638453ac6a *inst/doc/network.Rmd
 6675306a2687a7d707ce63c091880f09 *inst/doc/network.html
@@ -38,7 +38,7 @@ c17ce42cd5268df3c7e51404cd4261b7 *src/CAR-LASSO.cpp
 9c36224b2f3411268e1c50f956938b0f *src/CAR_ALASSO_helper.h
 b2a8d35fa2fd70257a55316d8dfdd339 *src/CAR_LASSO_helper.cpp
 07d56e42a1d52789d80d5c22e2c5d042 *src/CAR_LASSO_helper.h
-f1c2aa6f62fbf2b7753b592d3a4e4c0f *src/GIG_helper.cpp
+4b365b524af67576c1ff214792cb1711 *src/GIG_helper.cpp
 6afad47a77aec47c3b8073856d076a26 *src/GIG_helper.h
 61059660eb073d93e00e8ee054237071 *src/Makevars
 61059660eb073d93e00e8ee054237071 *src/Makevars.win
@@ -62,5 +62,5 @@ fc4cc0f266d495f6ba1cb3a27ee929ed *src/helper.h
 53f630d836e7f17312c1a57400809956 *src/rCARlasso.cpp
 cbedb30e932e32de4db6be09c54eb791 *src/rmultireg2_rcpp.h
 cc4aa4ea9e2f646c9cf6a4a742c3cdd5 *vignettes/buildown.Rmd
-12d12a12830cd60dfdc6f279af77aee5 *vignettes/glasso.Rmd
+ae4f89314cec5f39cb8312eb508670fb *vignettes/glasso.Rmd
 a5aa13a84211b89bfb4304638453ac6a *vignettes/network.Rmd
